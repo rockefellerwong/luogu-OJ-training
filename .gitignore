@@ -1,0 +1,4 @@
+.nova/
+.DS_Store
+*.out
+*.in
